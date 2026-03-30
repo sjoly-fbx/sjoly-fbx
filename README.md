@@ -11,5 +11,10 @@ My expertise covers the full product lifecycle: from Proof-of-Concept and design
 - Actuator integration (Interlock, stepper/brushless/DC/Linear motors...)
 - Power Management (Lithium Battery, Inductive charging, Low power,  Linear/Switching regulators, protection...)
 
+### Software
+- Electronics CAD : Altium, Kicad
+- PLM (Product Lifecycle Management) : ARAS
+- RMT (Requirement Management Tool): Jama
+
 ## Certification
 - IPC CID+
