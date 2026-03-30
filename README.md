@@ -6,6 +6,10 @@ My expertise covers the full product lifecycle: from Proof-of-Concept and design
 ## Skills
 ### Electronics
 - PCB design (Rigid, flex, flex-rigid, miniaturisation...)
+- EMC/EMI and ESD compliant design
+- Sensors integration (Electro-static, Temperature, relative humidity, gas, IMU, Light...)
+- Actuator integration (Interlock, stepper/brushless/DC/Linear motors...)
+- Power Management (Lithium Battery, Inductive charging, Low power,  Linear/Switching regulators, protection...)
 
 ## Certification
 - IPC CID+
